@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+:root {
+
+  --PrimaryDark: #fff;
+  --SecondaryLight: #f17732;
+  --SecondaryDark: #565acf;
+  --Ternary: #fe970e;
+  --LinkTextDark: #1f2278;
+  --HeadingTextDark: #212529;
+  --SubHeadingTextLight: #788097;
+  --SubHeadingTextDark: #212529;
+  --LinkTextLight: #fff;
+  --Button: #f17732;
+  --ButtonHover: #fe970e;
+  --bs-gray: #adb5bd;
+  --SubHeadingTextDark2: #495057;
+  --PrimaryLight: #f9f9f9;
+  --colorBackground: #565acf;
+  --lightBackground: #f9f9f9;
+}

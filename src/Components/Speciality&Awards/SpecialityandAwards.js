@@ -57,6 +57,7 @@ const SpecialityandAwards = ({ lightBg, imgStart }) => {
                             <Subheading3><FaHandHoldingMedical style={{ marginRight: '1rem', color: 'var(--SecondaryLight)' }} />All Children diseases</Subheading3>
                             <Subheading3 style={{ lineHeight: '24px' }}><FaHandHoldingMedical style={{ marginRight: '1rem', color: 'var(--SecondaryLight)' }} />Female disorder (PCOD, Infertility, Uterine Fibroids).</Subheading3>
                             <Subheading3><FaHandHoldingMedical style={{ marginRight: '1rem', color: 'var(--SecondaryLight)' }} />Cardiac Pulmonary and Respiratory Illness</Subheading3>
+                            <Subheading3><FaHandHoldingMedical style={{ marginRight: '1rem', color: 'var(--SecondaryLight)' }} />Gastro Intestinal Disorders</Subheading3>
                         </TextWrapper>
                     </Column1>
                     <Column2

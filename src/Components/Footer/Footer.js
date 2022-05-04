@@ -14,7 +14,7 @@ export default function Footer() {
   return (
     <FooterContainer>
       <SocialIcons>
-        <SocialIconLink href="https://facebook.com/profile/100010137571877" target="_blank" aria-label="Facebook">
+        <SocialIconLink href="https://www.facebook.com/profile.php?id=100010137571877" target="_blank" aria-label="Facebook">
           <FaFacebookF />
         </SocialIconLink>
         <SocialIconLink href="https://wa.me/919810572058" target="_blank" aria-label="Whatsapp">

@@ -37,7 +37,7 @@ const Features = () => {
                     <FaHandHoldingHeart />
                 </Image>
                 <FeatureHeading>Personalize Care</FeatureHeading>
-                <FeatureContent>Individual holistic approach to Chronic, Fatal and Psychosomatic cases.</FeatureContent>
+                <FeatureContent>Individual holistic approach to Chronic, <br />Fatal and Psychosomatic cases.</FeatureContent>
             </FeatureElement>
         </FeatureConatiner>
     )

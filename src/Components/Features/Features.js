@@ -18,7 +18,7 @@ const Features = () => {
                 <Image>
                     <AiFillSafetyCertificate />
                 </Image>
-                <FeatureHeading>21+ Years</FeatureHeading>
+                <FeatureHeading>20+ Years</FeatureHeading>
                 <FeatureContent>Of Experience</FeatureContent>
             </FeatureElement>
             <FeatureElement
@@ -37,7 +37,7 @@ const Features = () => {
                     <FaHandHoldingHeart />
                 </Image>
                 <FeatureHeading>Personalize Care</FeatureHeading>
-                <FeatureContent>Patient's satisfaction comes first</FeatureContent>
+                <FeatureContent>Individual holistic approach to Chronic, Fatal and Psychosomatic cases.</FeatureContent>
             </FeatureElement>
         </FeatureConatiner>
     )

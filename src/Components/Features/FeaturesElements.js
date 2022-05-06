@@ -22,6 +22,7 @@ export const FeatureElement = styled.div`
     justify-content: center;
     align-items: center;
     padding: 1rem;
+    width: 100%;
 
     @media screen and (max-width: 786px){
         padding: 0;

@@ -52,9 +52,9 @@ const ContactUs = ({ primary, dark, dark2 }) => {
                     <p>+91-9810572058</p>
                 </Location>
             </LocationConatiner>
-            <Map>
+            {/* <Map>
                 <GoogleMap />
-            </Map>
+            </Map> */}
             <LocationConatiner style={{ padding: '1rem' }}>
                 <Location>
                     <h5>To get Directions on Google Maps App, Click

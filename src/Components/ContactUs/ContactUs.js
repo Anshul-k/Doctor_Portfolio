@@ -2,10 +2,10 @@ import React, { useEffect } from 'react'
 import { Heading, Line } from '../CommonElements/Elements'
 import { AskButton } from '../FAQ/FAQElements'
 import { MdLocationOn, MdMessage, MdCall } from 'react-icons/md'
-import { ContactContainer, Location, LocationConatiner, Map } from './ContactUsElements'
+import { ContactContainer, Location, LocationConatiner, } from './ContactUsElements'
 import { Link } from 'react-router-dom'
 import Aos from "aos";
-import GoogleMap from './GoogleMap'
+// import GoogleMap from './GoogleMap'
 
 
 
